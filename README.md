@@ -1,4 +1,4 @@
 # BLACK-JACK-GAME
 THIS IS BLACK JACK GAME WHICH IS CREATED USING PYTHON
 <br>
-Autor- <h1> Nishank Jain </h1>
+Autor-Nishank Jain
