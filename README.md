@@ -28,7 +28,7 @@ cd blackjack-game
 <li>Ensure you have Python installed. This game was developed using Python 3.x.</li>
 </ul>
 
-Follow the on-screen prompts to play the game.
+<h3>Follow the on-screen prompts to play the game.</h3>
 
 The game ends when the player or dealer busts (exceeds 21) or when the player chooses to stand.
 
@@ -55,9 +55,10 @@ Contributions are welcome! Here’s how you can help:
 <h3>Contact Information</h3>
 If you have any questions, suggestions, or issues, please feel free to contact me:
 
-Name: Nishank jain
-Email: nishankjain594@gmail.com
+Name: Nishank jain<br>
+Email: nishankjain594@gmail.com<br>
 GitHub: Nishank-jain-5
 
-Feel free to customize this template according to your project’s specific details and requirements.
+<h3>Feel free to customize this template according to your project’s specific details and requirements.
+</h3>
 
