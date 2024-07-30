@@ -18,7 +18,7 @@ This is a command-line Blackjack game implemented in Python. The game allows one
 <ul>
 <li>Clone the repository:</li>
 
-git clone https://github.com/your-username/blackjack-game.git
+git clone https://github.com/Nishank-jain-5/BLACK-JACK-GAME.git
 
 
 <li>Navigate to the project directory:</li>
