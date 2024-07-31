@@ -61,7 +61,7 @@ while game_run:
     else:
         should_continue = False
         game_run = False
-        print("Good Byee..!!")
+        print("Good Byee..!! 😎")
 
     while should_continue:
 
@@ -80,27 +80,27 @@ while game_run:
                 print(f"your final hand: {my_card}, final score: {my_card_sum}")
                 print(f"computer's final hand: {computer_card}, final score: {com_card_sum}")
                 if my_card_sum > 21 and com_card_sum > 21:
-                    print("Both loose..!!")
+                    print("Both loose..!! 😤")
                 elif my_card_sum > 21:
-                    print("you went over/Bust")
-                    print("you loose..!!")
+                    print("you went over/Bust 😭")
+                    print("you loose..!! 😤")
                 elif com_card_sum > 21:
-                    print("delear went over/Bust")
-                    print("you win..!!")
+                    print("delear went over/Bust 😤")
+                    print("you win..!! 😃")
 
         else:
             should_continue = False
             print(f"your final hand: {my_card}, final score: {my_card_sum}")
             print(f"computer's final hand: {computer_card}, final score: {com_card_sum}")
             if com_card_sum > 21:
-                print("delear went over/Bust")
-                print("you win..!!")
+                print("delear went over/Bust 😤")
+                print("you win..!! 😃")
             elif my_card_sum > com_card_sum and my_card_sum <= 21:
-                print("you win..!!")
+                print("you win..!! 😃")
             elif my_card_sum==com_card_sum:
-                print("match draw")
+                print("match draw 🙃")
             else:
-                print("you loose..!!")
+                print("you loose..!! 😤")
 
 
 
